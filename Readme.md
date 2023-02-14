@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahyu Siddarta</h1>
-<h3 align="center">A passionate frontend developer from Bali, Specialized on making bug that hard to debug</h3>
+<h3 align="center">A passionate developer from Bali, Specialized on making bug that hard to debug</h3>
 
 - 💬 Ask me about **react, go**
 
