@@ -19,7 +19,7 @@
     location: "Bali, Indonesia 🌴",
     languages: ["JavaScript", "Go", "TypeScript", "Python", "PHP"],
     frameworks: ["React", "Next.js", "Node.js", "Gin", "Echo"],
-    currentFocus: "Building awesome web applications & DevOps automation",
+    currentFocus: "Building awesome web applications & DevOps automation + AI/ML",
     specialization: "Creating bugs that only appear in production 🐛",
     funFact: "Slow PHP? It's not the language - it's your code or server setup! ⚡️🔧"
   };
@@ -76,8 +76,8 @@
 <div align="center">
   
 - 🔭 I'm currently working on **full-stack web applications with React & Go**
-- 🌱 I'm currently learning **microservices architecture and cloud technologies**
-- � I'm looking to collaborate on **open source projects**
+- 🌱 I'm currently learning **microservices architecture, cloud technologies & AI (CNN, LSTM, RNN, and other real-time AI)**
+- 👯 I'm looking to collaborate on **open source projects**
 - �💬 Ask me about **React, Go, JavaScript, web development**
 - ⚡ Fun fact: **I love exploring new beaches in Bali when I'm not coding! 🏖️**
 - 📫 How to reach me: **wahyu.siddarta97@gmail.com**
