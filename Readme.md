@@ -21,7 +21,7 @@
     frameworks: ["React", "Next.js", "Node.js", "Gin", "Echo"],
     currentFocus: "Building awesome web applications & DevOps automation",
     specialization: "Creating bugs that only appear in production 🐛",
-    funFact: "I turn coffee into code and Stack Overflow into solutions ☕️"
+    funFact: "Slow PHP? It's not the language - it's your code or server setup! ⚡️🔧"
   };
   ```
   
